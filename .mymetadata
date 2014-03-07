@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="doubangroup"
+  id="myeclipse.1393039416254"
+  context-root="/doubangroup"
+  j2ee-spec="5.0"
+  archive="doubangroup.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebContent" />
+  </attributes>
+</project-module>
+
